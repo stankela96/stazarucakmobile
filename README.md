@@ -1,3 +1,3 @@
-stazarucak mobile app \n
-front : react native \n
+stazarucak mobile app, 
+front : react native, 
 back : nodejs
